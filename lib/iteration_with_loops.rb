@@ -17,4 +17,3 @@ def find_even_values(src)
   puts new
 end
 
-find_even_values( [ [10, 11], [99, 50, 3, 4], [23, 41] ] )
